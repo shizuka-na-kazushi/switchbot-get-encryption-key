@@ -1,0 +1,21 @@
+{
+  "name": "switchbot-get-encryption-key",
+  "version": "1.0.0",
+  "description": "CLI for getting SwitchBot BLE API encryption key from SwitchBot Cloud",
+  "main": "index.js",
+  "bin": {
+    "switchbot-get-encryption-key": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SwitchBot",
+    "Bluetooth",
+    "BLE",
+    "Encryption",
+    "Key"
+  ],
+  "author": "Kazushi Yoshida",
+  "license": "ISC"
+}
