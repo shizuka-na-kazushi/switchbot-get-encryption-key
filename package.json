@@ -17,5 +17,13 @@
     "Key"
   ],
   "author": "Kazushi Yoshida",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizuka-na-kazushi/switchbot-get-encryption-key.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shizuka-na-kazushi/switchbot-get-encryption-key/issues"
+  },
+  "homepage": "https://github.com/shizuka-na-kazushi/switchbot-get-encryption-key#readme"
 }
