@@ -23,3 +23,6 @@ MAC need to be without colon and upper case (e.g. ABCDE1234567).
 
 Data obtained by this script would be used by `WoSmartLock.setKey()` function in [node-switchbot](https://github.com/OpenWonderLabs/node-switchbot) library, or custom implementation of BLE central which directly communicates to [SwitchBot Lock](https://us.switch-bot.com/products/switchbot-lock) / [Lock Pro](https://us.switch-bot.com/products/switchbot-lock-pro) by encrypted BLE commands.
 
+# Reference
+
+You can refer to [my blog (sorry, in Japanese!)](https://tech-landlord.com/articles/switchbot-smartlock-with-ble-api-explaining-protocol-esp32-m5-atoms3/) for more detail of SwitchBot Smartlock BLE control. It will show you about BLE protocol and how above data is used to control Smartlock.
